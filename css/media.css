@@ -1,0 +1,139 @@
+@media (max-width:3840px) and (min-width:2732px){
+.item_nav{
+font-size:8px;
+}
+.item_blu{
+font-size:22px;
+}
+.items_nav_left, .items_left{
+margin-left:20%;
+}
+.items_nav_center, .items_center{
+margin-left:10%;
+}
+.items_nav_right, .items_right{
+margin-right:20%;
+}
+}
+@media (max-width:2732px) and (min-width:1366px){
+.item_nav{
+font-size:8px;
+}
+.item_blu{
+font-size:20px;
+}
+.items_nav_left, .items_left{
+margin-left:18%;
+}
+.items_nav_center, .items_center{
+margin-left:9%;
+}
+.items_nav_right, .items_right{
+margin-right:18%;
+}
+
+}
+@media (max-width:1366px) and (min-width:1112px){
+.item_nav{
+font-size:7px;
+}
+.item_blu{
+font-size:18px;
+}
+.items_nav_left, .items_left{
+margin-left:16%;
+}
+.items_nav_center, .items_center{
+margin-left:8%;
+}
+.items_nav_right, .items_right{
+margin-right:16%;
+}
+
+}
+@media (max-width:1112px) and (min-width:1024px){
+.item_nav{
+font-size:6px;
+}
+.item_blu{
+font-size:16px;
+}
+.items_nav_left, .items_left{
+margin-left:14%;
+}
+.items_nav_center, .items_center{
+margin-left:7%;
+}
+.items_nav_right, .items_right{
+margin-right:14%;
+}
+}
+@media (max-width:1024px) and (min-width:800px){
+.item_nav{
+font-size:5px;
+}
+.item_blu{
+font-size:14px;
+}
+.items_nav_left, .items_left{
+margin-left:12%;
+}
+.items_nav_center, .items_center{
+margin-left:6%;
+}
+.items_nav_right, .items_right{
+margin-right:12%;
+}
+}
+@media (max-width:800px) and (min-width:414px){
+.item_nav{
+font-size:4px;
+}
+.item_blu{
+font-size:12px;
+}
+.items_nav_left, .items_left{
+margin-left:10%;
+}
+.items_nav_center, .items_center{
+margin-left:5%;
+}
+.items_nav_right, .items_right{
+margin-right:10%;
+}
+}
+@media (max-width:414px) and (min-width:375px){
+.item_nav{
+font-size:3px;
+}
+.item_blu{
+font-size:10px;
+}
+.items_nav_left, .items_left{
+margin-left:8%;
+}
+.items_nav_center, .items_center{
+margin-left:4%;
+}
+.items_nav_right, .items_right{
+margin-right:8%;
+}
+
+}
+@media (max-width:375px) and (min-width:320px){
+.item_nav{
+font-size:2px;
+}
+.item_blu{
+font-size:8px;
+}
+.items_nav_left, .items_left{
+margin-left:6%;
+}
+.items_nav_center, .items_center{
+margin-left:3%;
+}
+.items_nav_right, .items_right{
+margin-right:6%;
+}
+}
